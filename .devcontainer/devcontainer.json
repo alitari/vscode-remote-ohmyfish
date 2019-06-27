@@ -1,0 +1,12 @@
+{
+	"name": "ohmyfish",
+	"dockerFile": "Dockerfile",
+	"runArgs": [
+	],
+	"extensions": [
+	],
+	"settings":{
+
+	},
+	// "postCreateCommand": "omf install ocean"
+}
